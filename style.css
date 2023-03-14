@@ -1,0 +1,19 @@
+.container,
+.card {
+    background-color: #17171d;
+    text-decoration-color: aliceblue;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+li {
+    color: #ffffff;
+}
+
+.avatar {
+    border-radius: 50%;
+}
